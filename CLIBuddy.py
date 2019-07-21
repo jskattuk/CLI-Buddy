@@ -98,7 +98,7 @@ class CLIBuddy:
     # given a string, find all commands in the database that contain it, and add them to the
     # list of values in the Combobox if they have not already been added
     def update_values(self, word):
-        command_query = { "command": { "$regex": ".*{}.*".format(word)}}
+        command_query = { "command": { "$regex": "(?i).*{}.*".format(word)}}
         matched_commands = self.db.commands.find(command_query)
         for matched_command in matched_commands:
             if matched_command.get('command') not in self.values:
