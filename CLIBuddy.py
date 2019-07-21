@@ -110,7 +110,7 @@ class CLIBuddy:
         messages = [
             'CLI-Buddy is an application that allows you to search for command line commands.',
             'Simply enter some keywords into the box and click the arrow button (or hit Enter) and the application '
-            'will return a list of all commands that contain atleast one of the words. Leaving the box empty will '
+            'will return a list of all commands that contain at least one of the words. Leaving the box empty will '
             'return all of the commands stored in CLI-Buddy.',
             'If you wish to exactly match multiple words, encase everything in double/single quotes, and the application will look '
             'for an exact match of the string you have input. Note that you cannot mix and match both quoted and non-quoted '
