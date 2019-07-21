@@ -1,0 +1,1253 @@
+2to3-2.7 (1)         - Python2 to Python3 converter
+as (1)               - the portable GNU assembler.
+busybox (1)          - The Swiss Army Knife of Embedded Linux
+red (1)              - line-oriented text editor
+wget (1)             - The non-interactive network downloader.
+[ (1)                - check file types and compare values
+aa-enabled (1)       - test whether AppArmor is enabled
+aa-exec (1)          - confine a program with the specified AppArmor profile
+acpi_available (1)   - test whether ACPI subsystem is available
+add-apt-repository (1) - Adds a repository into the /etc/apt/sources.list or /etc/apt/sources.list.d or removes an existing one
+addr2line (1)        - convert addresses into file names and line numbers.
+apm_available (1)    - test whether APM subsystem is available
+apport-bug (1)       - file a bug report using Apport, or update an existing report
+apport-cli (1)       - Apport user interfaces for reporting problems
+apport-collect (1)   - file a bug report using Apport, or update an existing report
+apport-unpack (1)    - extract the fields of a problem report to separate files
+apropos (1)          - search the manual page names and descriptions
+apt-add-repository (1) - Adds a repository into the /etc/apt/sources.list or /etc/apt/sources.list.d or removes an existing one
+apt-extracttemplates (1) - Utility to extract debconf config and templates from Debian packages
+apt-ftparchive (1)   - Utility to generate index files
+apt-sortpkgs (1)     - Utility to sort package index files
+apt-transport-http (1) - APT transport for downloading via the Hypertext Transfer Protocol (HTTP)
+apt-transport-https (1) - APT transport for downloading via the HTTP Secure protocol (HTTPS)
+apt-transport-mirror (1) - APT transport for more automated mirror selection
+ar (1)               - create, modify, and extract from archives
+arch (1)             - print machine hardware name (same as uname -m)
+asn1parse (1ssl)     - ASN.1 parsing tool
+at (1)               - queue, examine or delete jobs for later execution
+atq (1)              - queue, examine or delete jobs for later execution
+atrm (1)             - queue, examine or delete jobs for later execution
+awk (1)              - pattern scanning and processing language
+b2sum (1)            - compute and check BLAKE2 message digest
+base32 (1)           - base32 encode/decode data and print to standard output
+base64 (1)           - base64 encode/decode data and print to standard output
+basename (1)         - strip directory and suffix from filenames
+bash (1)             - GNU Bourne-Again SHell
+bashbug (1)          - report a bug in bash
+batch (1)            - queue, examine or delete jobs for later execution
+bc (1)               - An arbitrary precision calculator language
+blake2b (1ssl)       - message digests
+blake2s (1ssl)       - message digests
+bootctl (1)          - Control the firmware and boot manager settings
+bsd-from (1)         - print names of those who have sent mail
+bsd-write (1)        - send a message to another user
+bunzip2 (1)          - a block-sorting file compressor, v1.0.6
+busctl (1)           - Introspect the bus
+byobu (1)            - wrapper script for seeding a user's byobu configuration and launching a text based window manager (either screen or tmux)
+byobu-config (1)     - Configuration utility for byobu
+byobu-ctrl-a (1)     - Configure Byobu's ctrl-a behavior
+byobu-disable (1)    - wrapper script for enabling/disabling automatic startup of byobu after login into text console
+byobu-disable-prompt (1) - add and remove a nice color prompt to your shell configuration
+byobu-enable (1)     - wrapper script for enabling/disabling automatic startup of byobu after login into text console
+byobu-enable-prompt (1) - add and remove a nice color prompt to your shell configuration
+byobu-export (1)     - DEPRECATED
+byobu-janitor (1)    - script for cleaning and upgrading environment after upgrades
+byobu-keybindings (1) - toggle on/off Byobu's keybindings
+byobu-launch (1)     - Byobu Launcher
+byobu-launcher (1)   - Byobu Launcher
+byobu-launcher-install (1) - Byobu Launcher installation utility
+byobu-launcher-uninstall (1) - Byobu Launcher uninstallation utility
+byobu-layout (1)     - Save and restore byobu-tmux layouts
+byobu-prompt (1)     - add and remove a nice color prompt to your shell configuration
+byobu-quiet (1)      - Silence all of Byobu's status indicators and eliminate the hardstatus line
+byobu-reconnect-sockets (1) - Sourcable script that updates GPG_AGENT_INFO and DBUS_SESSION_BUS_ADDRESS in the environment
+byobu-screen (1)     - Launch byobu with screen as the backend
+byobu-select-backend (1) - select your default Byobu backend window manager
+byobu-select-profile (1) - select your Byobu foreground and background colors
+byobu-select-session (1) - select and connect to a byobu session
+byobu-shell (1)      - Print the message of the day and launch a shell
+byobu-silent (1)     - Silence all of Byobu's status indicators, eliminate the hardstatus line, and the window list
+byobu-status (1)     - displays status suitable for printing by the BYOBU_BACKEND
+byobu-status-detail (1) - Wrapper that uses a sensible pager
+byobu-tmux (1)       - Launch byobu with tmux as the backend
+byobu-ugraph (1)     - helper script for notification history graphs
+byobu-ulevel (1)     - helper script for notification level indicators
+bzcat (1)            - decompresses files to stdout
+bzcmp (1)            - compare bzip2 compressed files
+bzdiff (1)           - compare bzip2 compressed files
+bzegrep (1)          - search possibly bzip2 compressed files for a regular expression
+bzexe (1)            - compress executable files in place
+bzfgrep (1)          - search possibly bzip2 compressed files for a regular expression
+bzgrep (1)           - search possibly bzip2 compressed files for a regular expression
+bzip2 (1)            - a block-sorting file compressor, v1.0.6
+bzip2recover (1)     - recovers data from damaged bzip2 files
+bzless (1)           - file perusal filter for crt viewing of bzip2 compressed text
+bzmore (1)           - file perusal filter for crt viewing of bzip2 compressed text
+c++ (1)              - GNU project C and C++ compiler
+c++filt (1)          - Demangle C++ and Java symbols.
+c89 (1)              - ANSI (1989) C compiler
+c89-gcc (1)          - ANSI (1989) C compiler
+c99 (1)              - ANSI (1999) C compiler
+c99-gcc (1)          - ANSI (1999) C compiler
+c_rehash (1ssl)      - Create symbolic links to files named by the hash values
+ca (1ssl)            - sample minimal CA application
+CA.pl (1ssl)         - friendlier interface for OpenSSL certificate programs
+cal (1)              - displays a calendar and the date of Easter
+calendar (1)         - reminder service
+capsh (1)            - capability shell wrapper
+captoinfo (1)        - convert a termcap description into a terminfo description
+cat (1)              - concatenate files and print on the standard output
+catchsegv (1)        - Catch segmentation faults in programs
+cc (1)               - GNU project C and C++ compiler
+chacl (1)            - change the access control list of a file or directory
+chage (1)            - change user password expiry information
+chardet3 (1)         - universal character encoding detector
+chardetect3 (1)      - universal character encoding detector
+chattr (1)           - change file attributes on a Linux file system
+chcon (1)            - change file security context
+check-language-support (1) - returns the list of missing packages in order to provide a complete language environment
+chfn (1)             - change real user name and information
+chgrp (1)            - change group ownership
+chmod (1)            - change file mode bits
+chown (1)            - change file owner and group
+chrt (1)             - manipulate the real-time attributes of a process
+chsh (1)             - change login shell
+chvt (1)             - change foreground virtual terminal
+ciphers (1ssl)       - SSL cipher display and cipher list tool
+ckbcomp (1)          - compile a XKB keyboard description to a keymap suitable for loadkeys or kbdcontrol
+cksum (1)            - checksum and count the bytes in a file
+clear (1)            - clear the terminal screen
+clear_console (1)    - clear the console
+cmp (1)              - compare two files byte by byte
+cms (1ssl)           - CMS utility
+codepage (1)         - extract a codepage from an MSDOS codepage file
+col (1)              - filter reverse line feeds from input
+col1 (1)             - awk and print a column (based on the name of the program, 1-9)
+col2 (1)             - awk and print a column (based on the name of the program, 1-9)
+col3 (1)             - awk and print a column (based on the name of the program, 1-9)
+col4 (1)             - awk and print a column (based on the name of the program, 1-9)
+col5 (1)             - awk and print a column (based on the name of the program, 1-9)
+col6 (1)             - awk and print a column (based on the name of the program, 1-9)
+col7 (1)             - awk and print a column (based on the name of the program, 1-9)
+col8 (1)             - awk and print a column (based on the name of the program, 1-9)
+col9 (1)             - awk and print a column (based on the name of the program, 1-9)
+colcrt (1)           - filter nroff output for CRT previewing
+colrm (1)            - remove columns from a file
+column (1)           - columnate lists
+comm (1)             - compare two sorted files line by line
+compose (1)          - execute programs via entries in the mailcap file
+corelist (1)         - a commandline frontend to Module::CoreList
+cp (1)               - copy files and directories
+cpan (1)             - easily interact with CPAN from the command line
+cpan5.26-x86_64-linux-gnu (1) - easily interact with CPAN from the command line
+cpio (1)             - copy files to and from archives
+cpp (1)              - The C Preprocessor
+cpp-7 (1)            - The C Preprocessor
+crl (1ssl)           - CRL utility
+crl2pkcs7 (1ssl)     - Create a PKCS#7 structure from a CRL and certificates
+crontab (1)          - maintain crontab files for individual users (Vixie Cron)
+csplit (1)           - split a file into sections determined by context lines
+ctail (1)            - watch and colorize a logfile
+curl (1)             - transfer a URL
+cut (1)              - remove sections from each line of files
+dash (1)             - command interpreter (shell)
+date (1)             - print or set the system date and time
+dbus-cleanup-sockets (1) - clean up leftover sockets in a directory
+dbus-daemon (1)      - Message bus daemon
+dbus-monitor (1)     - debug probe to print message bus messages
+dbus-run-session (1) - start a process as a new D-Bus session
+dbus-send (1)        - Send a message to a message bus
+dbus-update-activation-environment (1) - update environment used for D-Bus session services
+dbus-uuidgen (1)     - Utility to generate UUIDs
+dd (1)               - convert and copy a file
+deallocvt (1)        - deallocate unused virtual consoles
+deb-systemd-helper (1p) - subset of systemctl for machines not running systemd
+deb-systemd-invoke (1p) - wrapper around systemctl, respecting policy-rc.d
+debconf (1)          - run a debconf-using program
+debconf-apt-progress (1) - install packages using debconf to display a progress bar
+debconf-communicate (1) - communicate with debconf
+debconf-copydb (1)   - copy a debconf database
+debconf-escape (1)   - helper when working with debconf's escape capability
+debconf-set-selections (1) - insert new values into the debconf database
+debconf-show (1)     - query the debconf database
+delv (1)             - DNS lookup and validation utility
+df (1)               - report file system disk space usage
+dgst (1ssl)          - message digests
+dh_bash-completion (1) - install bash completions for package
+dh_pypy (1)          - calculates PyPy dependencies, adds maintainer scripts to byte compile files, etc.
+dh_python2 (1)       - calculates Python dependencies, adds maintainer scripts to byte compile files, etc.
+dh_python3 (1)       - calculates Python dependencies, adds maintainer scripts to byte compile files, etc.
+dhparam (1ssl)       - DH parameter manipulation and generation
+splain (1)           - produce verbose warning diagnostics
+diff (1)             - compare files line by line
+diff3 (1)            - compare three files line by line
+dig (1)              - DNS lookup utility
+dir (1)              - list directory contents
+dircolors (1)        - color setup for ls
+dirmngr-client (1)   - Tool to access the Dirmngr services
+dirname (1)          - strip last component from file name
+dmesg (1)            - print or control the kernel ring buffer
+dnsdomainname (1)    - show the system's DNS domain name
+domainname (1)       - show or set the system's NIS/YP domain name
+dpkg (1)             - package manager for Debian
+dpkg-architecture (1) - set and determine the architecture for package building
+dpkg-buildflags (1)  - returns build flags to use during package build
+dpkg-buildpackage (1) - build binary or source packages from sources
+dpkg-checkbuilddeps (1) - check build dependencies and conflicts
+dpkg-deb (1)         - Debian package archive (.deb) manipulation tool
+dpkg-distaddfile (1) - add entries to debian/files
+dpkg-divert (1)      - override a package's version of a file
+dpkg-genbuildinfo (1) - generate Debian .buildinfo files
+dpkg-genchanges (1)  - generate Debian .changes files
+dpkg-gencontrol (1)  - generate Debian control files
+dpkg-gensymbols (1)  - generate symbols files (shared library dependency information)
+dpkg-maintscript-helper (1) - works around known dpkg limitations in maintainer scripts
+dpkg-mergechangelogs (1) - 3-way merge of debian/changelog files
+dpkg-name (1)        - rename Debian packages to full package names
+dpkg-parsechangelog (1) - parse Debian changelog files
+dpkg-query (1)       - a tool to query the dpkg database
+dpkg-scanpackages (1) - create Packages index files
+dpkg-scansources (1) - create Sources index files
+dpkg-shlibdeps (1)   - generate shared library substvar dependencies
+dpkg-source (1)      - Debian source package (.dsc) manipulation tool
+dpkg-split (1)       - Debian package archive split/join tool
+dpkg-statoverride (1) - override ownership and mode of files
+dpkg-trigger (1)     - a package trigger utility
+dpkg-vendor (1)      - queries information about distribution vendors
+dsa (1ssl)           - DSA key processing
+dsaparam (1ssl)      - DSA parameter manipulation and generation
+du (1)               - estimate file space usage
+dumpkeys (1)         - dump keyboard translation tables
+dwp (1)              - The DWARF packaging utility
+eatmydata (1)        - transparently disable fsync() and other data-to-disk synchronization calls
+ec (1ssl)            - EC key processing
+echo (1)             - display a line of text
+ecparam (1ssl)       - EC parameter manipulation and generation
+ed (1)               - line-oriented text editor
+edit (1)             - execute programs via entries in the mailcap file
+editor (1)           - Nano's ANOther editor, an enhanced free Pico clone
+egrep (1)            - print lines matching a pattern
+eject (1)            - eject removable media
+elfedit (1)          - Update the ELF header of ELF files.
+enc (1ssl)           - symmetric cipher routines
+enc2xs (1)           - - Perl Encode Module Generator
+encguess (1)         - guess character encodings of files
+engine (1ssl)        - load and query engines
+env (1)              - run a program in a modified environment
+envsubst (1)         - substitutes environment variables in shell format strings
+eqn (1)              - format equations for troff or MathML
+errstr (1ssl)        - lookup error codes
+ex (1)               - Vi IMproved, a programmer's text editor
+expand (1)           - convert tabs to spaces
+expiry (1)           - check and enforce password expiration policy
+expr (1)             - evaluate expressions
+factor (1)           - factor numbers
+faked (1)            - daemon that remembers fake ownership/permissions of files manipulated by fakeroot processes.
+faked-sysv (1)       - daemon that remembers fake ownership/permissions of files manipulated by fakeroot processes.
+faked-tcp (1)        - daemon that remembers fake ownership/permissions of files manipulated by fakeroot processes.
+fakeroot (1)         - run a command in an environment faking root privileges for file manipulation
+fakeroot-sysv (1)    - run a command in an environment faking root privileges for file manipulation
+fakeroot-tcp (1)     - run a command in an environment faking root privileges for file manipulation
+fallocate (1)        - preallocate or deallocate space to a file
+false (1)            - do nothing, unsuccessfully
+fgconsole (1)        - print the number of the active VT.
+fgrep (1)            - print lines matching a pattern
+file (1)             - determine file type
+find (1)             - search for files in a directory hierarchy
+flock (1)            - manage locks from shell scripts
+fmt (1)              - simple optimal text formatter
+fold (1)             - wrap each input line to fit in specified width
+free (1)             - Display amount of free and used memory in the system
+from (1)             - print names of those who have sent mail
+ftp (1)              - Internet file transfer program
+fuser (1)            - identify processes using files or sockets
+fusermount (1)       - unmount FUSE filesystems
+g++ (1)              - GNU project C and C++ compiler
+g++-7 (1)            - GNU project C and C++ compiler
+gawk (1)             - pattern scanning and processing language
+gcc (1)              - GNU project C and C++ compiler
+gcc-7 (1)            - GNU project C and C++ compiler
+gcc-ar (1)           - a wrapper around ar adding the - plugin option
+gcc-ar-7 (1)         - a wrapper around ar adding the - plugin option
+gcc-nm (1)           - a wrapper around nm adding the - plugin option
+gcc-nm-7 (1)         - a wrapper around nm adding the - plugin option
+gcc-ranlib (1)       - a wrapper around ranlib adding the - plugin option
+gcc-ranlib-7 (1)     - a wrapper around ranlib adding the - plugin option
+gcov (1)             - coverage testing tool
+gcov-7 (1)           - coverage testing tool
+gcov-dump (1)        - offline gcda and gcno profile dump tool
+gcov-dump-7 (1)      - offline gcda and gcno profile dump tool
+gcov-tool (1)        - offline gcda profile processing tool
+gcov-tool-7 (1)      - offline gcda profile processing tool
+gencat (1)           - Generate message catalog
+gendsa (1ssl)        - generate a DSA private key from a set of parameters
+genpkey (1ssl)       - generate a private key
+genrsa (1ssl)        - generate an RSA private key
+geqn (1)             - format equations for troff or MathML
+getpcaps (1)         - List Process Capabilities
+getconf (1)          - Query system configuration variables
+getent (1)           - get entries from Name Service Switch libraries
+getfacl (1)          - get file access control lists
+getopt (1)           - parse command options (enhanced)
+gettext (1)          - translate message
+ginstall-info (1)    - update info/dir entries
+git (1)              - the stupid content tracker
+git-add (1)          - Add file contents to the index
+git-am (1)           - Apply a series of patches from a mailbox
+git-annotate (1)     - Annotate file lines with commit information
+git-apply (1)        - Apply a patch to files and/or to the index
+git-archive (1)      - Create an archive of files from a named tree
+git-bisect (1)       - Use binary search to find the commit that introduced a bug
+git-blame (1)        - Show what revision and author last modified each line of a file
+git-branch (1)       - List, create, or delete branches
+git-bundle (1)       - Move objects and refs by archive
+git-cat-file (1)     - Provide content or type and size information for repository objects
+git-check-attr (1)   - Display gitattributes information
+git-check-ignore (1) - Debug gitignore / exclude files
+git-check-mailmap (1) - Show canonical names and email addresses of contacts
+git-check-ref-format (1) - Ensures that a reference name is well formed
+git-checkout (1)     - Switch branches or restore working tree files
+git-checkout-index (1) - Copy files from the index to the working tree
+git-cherry (1)       - Find commits yet to be applied to upstream
+git-cherry-pick (1)  - Apply the changes introduced by some existing commits
+git-clean (1)        - Remove untracked files from the working tree
+git-clone (1)        - Clone a repository into a new directory
+git-column (1)       - Display data in columns
+git-commit (1)       - Record changes to the repository
+git-commit-tree (1)  - Create a new commit object
+git-config (1)       - Get and set repository or global options
+git-count-objects (1) - Count unpacked number of objects and their disk consumption
+git-credential (1)   - Retrieve and store user credentials
+git-credential-cache (1) - Helper to temporarily store passwords in memory
+git-credential-cache--daemon (1) - Temporarily store user credentials in memory
+git-credential-store (1) - Helper to store credentials on disk
+git-daemon (1)       - A really simple server for Git repositories
+git-describe (1)     - Give an object a human readable name based on an available ref
+git-diff (1)         - Show changes between commits, commit and working tree, etc
+git-diff-files (1)   - Compares files in the working tree and the index
+git-diff-index (1)   - Compare a tree to the working tree or index
+git-diff-tree (1)    - Compares the content and mode of blobs found via two tree objects
+git-difftool (1)     - Show changes using common diff tools
+git-fast-export (1)  - Git data exporter
+git-fast-import (1)  - Backend for fast Git data importers
+git-fetch (1)        - Download objects and refs from another repository
+git-fetch-pack (1)   - Receive missing objects from another repository
+git-filter-branch (1) - Rewrite branches
+git-fmt-merge-msg (1) - Produce a merge commit message
+git-for-each-ref (1) - Output information on each ref
+git-format-patch (1) - Prepare patches for e-mail submission
+git-fsck (1)         - Verifies the connectivity and validity of the objects in the database
+git-fsck-objects (1) - Verifies the connectivity and validity of the objects in the database
+git-gc (1)           - Cleanup unnecessary files and optimize the local repository
+git-get-tar-commit-id (1) - Extract commit ID from an archive created using git-archive
+git-grep (1)         - Print lines matching a pattern
+git-hash-object (1)  - Compute object ID and optionally creates a blob from a file
+git-help (1)         - Display help information about Git
+git-http-backend (1) - Server side implementation of Git over HTTP
+git-http-fetch (1)   - Download from a remote Git repository via HTTP
+git-http-push (1)    - Push objects over HTTP/DAV to another repository
+git-imap-send (1)    - Send a collection of patches from stdin to an IMAP folder
+git-index-pack (1)   - Build pack index file for an existing packed archive
+git-init (1)         - Create an empty Git repository or reinitialize an existing one
+git-init-db (1)      - Creates an empty Git repository
+git-instaweb (1)     - Instantly browse your working repository in gitweb
+git-interpret-trailers (1) - add or parse structured information in commit messages
+git-log (1)          - Show commit logs
+git-ls-files (1)     - Show information about files in the index and the working tree
+git-ls-remote (1)    - List references in a remote repository
+git-ls-tree (1)      - List the contents of a tree object
+git-mailinfo (1)     - Extracts patch and authorship from a single e-mail message
+git-mailsplit (1)    - Simple UNIX mbox splitter program
+git-merge (1)        - Join two or more development histories together
+git-merge-base (1)   - Find as good common ancestors as possible for a merge
+git-merge-file (1)   - Run a three-way file merge
+git-merge-index (1)  - Run a merge for files needing merging
+git-merge-one-file (1) - The standard helper program to use with git-merge-index
+git-merge-tree (1)   - Show three-way merge without touching index
+git-mergetool (1)    - Run merge conflict resolution tools to resolve merge conflicts
+git-mergetool--lib (1) - Common Git merge tool shell scriptlets
+git-mktag (1)        - Creates a tag object
+git-mktree (1)       - Build a tree-object from ls-tree formatted text
+git-mv (1)           - Move or rename a file, a directory, or a symlink
+git-name-rev (1)     - Find symbolic names for given revs
+git-notes (1)        - Add or inspect object notes
+git-pack-objects (1) - Create a packed archive of objects
+git-pack-redundant (1) - Find redundant pack files
+git-pack-refs (1)    - Pack heads and tags for efficient repository access
+git-parse-remote (1) - Routines to help parsing remote repository access parameters
+git-patch-id (1)     - Compute unique ID for a patch
+git-prune (1)        - Prune all unreachable objects from the object database
+git-prune-packed (1) - Remove extra objects that are already in pack files
+git-pull (1)         - Fetch from and integrate with another repository or a local branch
+git-push (1)         - Update remote refs along with associated objects
+git-quiltimport (1)  - Applies a quilt patchset onto the current branch
+git-read-tree (1)    - Reads tree information into the index
+git-rebase (1)       - Reapply commits on top of another base tip
+git-receive-pack (1) - Receive what is pushed into the repository
+git-reflog (1)       - Manage reflog information
+git-remote (1)       - Manage set of tracked repositories
+git-remote-ext (1)   - Bridge smart transport to external command.
+git-remote-fd (1)    - Reflect smart transport stream back to caller
+git-remote-testgit (1) - Example remote-helper
+git-repack (1)       - Pack unpacked objects in a repository
+git-replace (1)      - Create, list, delete refs to replace objects
+git-request-pull (1) - Generates a summary of pending changes
+git-rerere (1)       - Reuse recorded resolution of conflicted merges
+git-reset (1)        - Reset current HEAD to the specified state
+git-rev-list (1)     - Lists commit objects in reverse chronological order
+git-rev-parse (1)    - Pick out and massage parameters
+git-revert (1)       - Revert some existing commits
+git-rm (1)           - Remove files from the working tree and from the index
+git-send-pack (1)    - Push objects over Git protocol to another repository
+git-sh-i18n (1)      - Git's i18n setup code for shell scripts
+git-sh-i18n--envsubst (1) - Git's own envsubst(1) for i18n fallbacks
+git-sh-setup (1)     - Common Git shell script setup code
+git-shell (1)        - Restricted login shell for Git-only SSH access
+git-shortlog (1)     - Summarize 'git log' output
+git-show (1)         - Show various types of objects
+git-show-branch (1)  - Show branches and their commits
+git-show-index (1)   - Show packed archive index
+git-show-ref (1)     - List references in a local repository
+git-stage (1)        - Add file contents to the staging area
+git-stash (1)        - Stash the changes in a dirty working directory away
+git-status (1)       - Show the working tree status
+git-stripspace (1)   - Remove unnecessary whitespace
+git-submodule (1)    - Initialize, update or inspect submodules
+git-subtree (1)      - Merge subtrees together and split repository into subtrees
+git-symbolic-ref (1) - Read, modify and delete symbolic refs
+git-tag (1)          - Create, list, delete or verify a tag object signed with GPG
+git-unpack-file (1)  - Creates a temporary file with a blob's contents
+git-unpack-objects (1) - Unpack objects from a packed archive
+git-update-index (1) - Register file contents in the working tree to the index
+git-update-ref (1)   - Update the object name stored in a ref safely
+git-update-server-info (1) - Update auxiliary info file to help dumb servers
+git-upload-archive (1) - Send archive back to git-archive
+git-upload-pack (1)  - Send objects packed back to git-fetch-pack
+git-var (1)          - Show a Git logical variable
+git-verify-commit (1) - Check the GPG signature of commits
+git-verify-pack (1)  - Validate packed Git archive files
+git-verify-tag (1)   - Check the GPG signature of tags
+git-web--browse (1)  - Git helper script to launch a web browser
+git-whatchanged (1)  - Show logs with difference each commit introduces
+git-worktree (1)     - Manage multiple working trees
+git-write-tree (1)   - Create a tree object from the current index
+gitremote-helpers (1) - Helper programs to interact with remote repositories
+gitweb (1)           - Git web interface (web frontend to Git repositories)
+gold (1)             - The GNU ELF linker
+gpasswd (1)          - administer /etc/group and /etc/gshadow
+gpg (1)              - OpenPGP encryption and signing tool
+gpg-agent (1)        - Secret key management for GnuPG
+gpg-check-pattern (1) - Check a passphrase on stdin against the patternfile
+gpg-connect-agent (1) - Communicate with a running agent
+gpg-preset-passphrase (1) - Put a passphrase into gpg-agent's cache
+gpg-wks-client (1)   - Client for the Web Key Service
+gpg-wks-server (1)   - Server for the Web Key Service
+gpg-zip (1)          - encrypt or sign files into an archive
+gpgconf (1)          - Modify .gnupg home directories
+gpgparsemail (1)     - Parse a mail message into an annotated format
+gpgsm (1)            - CMS encryption and signing tool
+gpgsplit (1)         - Split an OpenPGP message into packets
+gpgv (1)             - Verify OpenPGP signatures
+gpic (1)             - compile pictures for troff or TeX
+gprof (1)            - display call graph profile data
+grep (1)             - print lines matching a pattern
+groff (1)            - front-end for the groff document formatting system
+grog (1)             - guess options for a following groff command
+grops (1)            - PostScript driver for groff
+grotty (1)           - groff driver for typewriter-like devices
+groups (1)           - print the groups a user is in
+growpart (1)         - extend a partition in a partition table to fill available space
+grub-editenv (1)     - edit GRUB environment block
+grub-file (1)        - check file type
+grub-fstest (1)      - debug tool for GRUB filesystem drivers
+grub-glue-efi (1)    - generate a fat binary for EFI
+grub-kbdcomp (1)     - generate a GRUB keyboard layout file
+grub-menulst2cfg (1) - transform legacy menu.lst into grub.cfg
+grub-mkfont (1)      - make GRUB font files
+grub-mkimage (1)     - make a bootable image of GRUB
+grub-mklayout (1)    - generate a GRUB keyboard layout file
+grub-mknetdir (1)    - prepare a GRUB netboot directory.
+grub-mkpasswd-pbkdf2 (1) - generate hashed password for GRUB
+grub-mkrelpath (1)   - make a system path relative to its root
+grub-mkrescue (1)    - make a GRUB rescue image
+grub-mkstandalone (1) - make a memdisk-based GRUB image
+grub-mount (1)       - export GRUB filesystem with FUSE
+grub-render-label (1) - generate a .disk_label for Apple Macs.
+grub-script-check (1) - check grub.cfg for syntax errors
+grub-syslinux2cfg (1) - transform syslinux config into grub.cfg
+gtbl (1)             - format tables for troff
+gunzip (1)           - compress or expand files
+gzexe (1)            - compress executable files in place
+gzip (1)             - compress or expand files
+h2ph (1)             - convert .h C header files to .ph Perl header files
+h2xs (1)             - convert .h C header files to Perl extensions
+hd (1)               - ASCII, decimal, hexadecimal, octal dump
+head (1)             - output the first part of files
+helpztags (1)        - generate the help tags file for directory
+hexdump (1)          - ASCII, decimal, hexadecimal, octal dump
+host (1)             - DNS lookup utility
+hostid (1)           - print the numeric identifier for the current host
+hostname (1)         - show or set the system's host name
+hostnamectl (1)      - Control the system hostname
+htop (1)             - interactive process viewer
+iconv (1)            - convert text from one character encoding to another
+id (1)               - print real and effective user and group IDs
+igawk (1)            - gawk with include files
+info (1)             - read Info documents
+infobrowser (1)      - read Info documents
+infocmp (1)          - compare or print out terminfo descriptions
+infotocap (1)        - convert a terminfo description into a termcap description
+init (1)             - systemd system and service manager
+install (1)          - copy files and set attributes
+install-info (1)     - update info/dir entries
+instmodsh (1)        - A shell to examine installed modules
+intro (1)            - introduction to user commands
+ionice (1)           - set or get process I/O scheduling class and priority
+ipcmk (1)            - make various IPC resources
+ipcrm (1)            - remove certain IPC resources
+ipcs (1)             - show information on IPC facilities
+iptables-xml (1)     - Convert iptables-save format to XML
+irqbalance (1)       - distribute hardware interrupts across processors on a multiprocessor system
+ischroot (1)         - detect if running in a chroot
+join (1)             - join lines of two files on a common field
+journalctl (1)       - Query the systemd journal
+json_pp (1)          - JSON::PP command utility
+pyjwt3 (1)           - Python implementation of JSON Web Token
+kbd_mode (1)         - report or set the keyboard mode
+kbdinfo (1)          - obtain information about the status of a console
+kbxutil (1)          - List, export, import Keybox data
+keep-one-running (1) - run just one instance at a time of some command and unique set of arguments (useful for cronjobs, eg)
+keyring (1)          - Python-Keyring command-line utility
+kill (1)             - send a signal to a process
+killall (1)          - kill processes by name
+landscape-sysinfo (1) - Display a summary of the current system status
+last (1)             - show a listing of last logged in users
+lastb (1)            - show a listing of last logged in users
+lcf (1)              - Determine which of the historical versions of a config is installed
+ld (1)               - The GNU linker
+ld.bfd (1)           - The GNU linker
+ld.gold (1)          - The GNU ELF linker
+ldd (1)              - print shared object dependencies
+less (1)             - opposite of more
+lessecho (1)         - expand metacharacters
+lessfile (1)         - "input preprocessor" for less.
+lesskey (1)          - specify key bindings for less
+lesspipe (1)         - "input preprocessor" for less.
+lexgrog (1)          - parse header information in man pages
+libnetcfg (1)        - configure libnet
+link (1)             - call the link function to create a link to a file
+linux-check-removal (1) - check whether removal of a kernel is safe
+linux-update-symlinks (1) - maintain symlinks to default kernel and initramfs
+linux-version (1)    - operate on Linux kernel version strings
+linux32 (1)          - change reported architecture in new program environment and set personality flags
+linux64 (1)          - change reported architecture in new program environment and set personality flags
+list (1ssl)          - list algorithms and features
+ln (1)               - make links between files
+loadkeys (1)         - load keyboard translation tables
+locale (1)           - get locale-specific information
+localectl (1)        - Control the system locale and keyboard layout settings
+localedef (1)        - compile locale definition files
+locate (1)           - find files by name
+logger (1)           - enter messages into the system log
+login (1)            - begin session on the system
+loginctl (1)         - Control the systemd login manager
+logname (1)          - print user's login name
+look (1)             - display lines beginning with a given string
+lorder (1)           - list dependencies for object files
+ls (1)               - list directory contents
+lsattr (1)           - list file attributes on a Linux second extended file system
+lsb_release (1)      - print distribution-specific information
+lscpu (1)            - display information about the CPU architecture
+lshw (1)             - list hardware
+lsipc (1)            - show information on IPC facilities currently employed in the system
+lslogins (1)         - display information about known users in the system
+lsmem (1)            - list the ranges of available memory with their online status
+lspgpot (1)          - extracts the ownertrust values from PGP keyrings and list them in GnuPG ownertrust format.
+ltrace (1)           - A library call tracer
+lxc (1)              - Command line client for LXD
+lxc.alias (1)        - Manage command aliases
+lxc.alias.add (1)    - Add new aliases
+lxc.alias.list (1)   - List aliases
+lxc.alias.remove (1) - Remove aliases
+lxc.alias.rename (1) - Rename aliases
+lxc.cluster (1)      - Manage cluster members
+lxc.cluster.enable (1) - Enable clustering on a single non-clustered LXD instance
+lxc.cluster.list (1) - List all the cluster members
+lxc.cluster.remove (1) - Remove a member from the cluster
+lxc.cluster.rename (1) - Rename a cluster member
+lxc.cluster.show (1) - Show details of a cluster member
+lxc.config (1)       - Manage container and server configuration options
+lxc.config.device (1) - Manage container devices
+lxc.config.device.add (1) - Add devices to containers or profiles
+lxc.config.device.get (1) - Get values for container device configuration keys
+lxc.config.device.list (1) - List container devices
+lxc.config.device.override (1) - Copy profile inherited devices and override configuration keys
+lxc.config.device.remove (1) - Remove container devices
+lxc.config.device.set (1) - Set container device configuration keys
+lxc.config.device.show (1) - Show full device configuration for containers or profiles
+lxc.config.device.unset (1) - Unset container device configuration keys
+lxc.config.edit (1)  - Edit container or server configurations as YAML
+lxc.config.get (1)   - Get values for container or server configuration keys
+lxc.config.metadata (1) - Manage container metadata files
+lxc.config.metadata.edit (1) - Edit container metadata files
+lxc.config.metadata.show (1) - Show container metadata files
+lxc.config.set (1)   - Set container or server configuration keys
+lxc.config.show (1)  - Show container or server configurations
+lxc.config.template (1) - Manage container file templates
+lxc.config.template.create (1) - Create new container file templates
+lxc.config.template.delete (1) - Delete container file templates
+lxc.config.template.edit (1) - Edit container file templates
+lxc.config.template.list (1) - List container file templates
+lxc.config.template.show (1) - Show content of container file templates
+lxc.config.trust (1) - Manage trusted clients
+lxc.config.trust.add (1) - Add new trusted clients
+lxc.config.trust.list (1) - List trusted clients
+lxc.config.trust.remove (1) - Remove trusted clients
+lxc.config.unset (1) - Unset container or server configuration keys
+lxc.console (1)      - Attach to container consoles
+lxc.copy (1)         - Copy containers within or in between LXD instances
+lxc.delete (1)       - Delete containers and snapshots
+lxc.exec (1)         - Execute commands in containers
+lxc.file (1)         - Manage files in containers
+lxc.file.delete (1)  - Delete files in containers
+lxc.file.edit (1)    - Edit files in containers
+lxc.file.pull (1)    - Pull files from containers
+lxc.file.push (1)    - Push files into containers
+lxc.image (1)        - Manage images
+lxc.image.alias (1)  - Manage image aliases
+lxc.image.alias.create (1) - Create aliases for existing images
+lxc.image.alias.delete (1) - Delete image aliases
+lxc.image.alias.list (1) - List image aliases
+lxc.image.alias.rename (1) - Rename aliases
+lxc.image.copy (1)   - Copy images between servers
+lxc.image.delete (1) - Delete images
+lxc.image.edit (1)   - Edit image properties
+lxc.image.export (1) - Export and download images
+lxc.image.import (1) - Import images into the image store
+lxc.image.info (1)   - Show useful information about images
+lxc.image.list (1)   - List images
+lxc.image.refresh (1) - Refresh images
+lxc.image.show (1)   - Show image properties
+lxc.info (1)         - Show container or server information
+lxc.launch (1)       - Create and start containers from images
+lxc.list (1)         - List containers
+lxc.move (1)         - Move containers within or in between LXD instances
+lxc.network (1)      - Manage and attach containers to networks
+lxc.network.attach (1) - Attach network interfaces to containers
+lxc.network.attach-profile (1) - Attach network interfaces to profiles
+lxc.network.create (1) - Create new networks
+lxc.network.delete (1) - Delete networks
+lxc.network.detach (1) - Detach network interfaces from containers
+lxc.network.detach-profile (1) - Detach network interfaces from profiles
+lxc.network.edit (1) - Edit network configurations as YAML
+lxc.network.get (1)  - Get values for network configuration keys
+lxc.network.list (1) - List available networks
+lxc.network.list-leases (1) - List DHCP leases
+lxc.network.rename (1) - Rename networks
+lxc.network.set (1)  - Set network configuration keys
+lxc.network.show (1) - Show network configurations
+lxc.network.unset (1) - Unset network configuration keys
+lxc.operation (1)    - List, show and delete background operations
+lxc.operation.delete (1) - Delete a background operation (will attempt to cancel)
+lxc.operation.list (1) - List background operations
+lxc.operation.show (1) - Show details on a background operation
+lxc.profile (1)      - Manage profiles
+lxc.profile.add (1)  - Add profiles to containers
+lxc.profile.assign (1) - Assign sets of profiles to containers
+lxc.profile.copy (1) - Copy profiles
+lxc.profile.create (1) - Create profiles
+lxc.profile.delete (1) - Delete profiles
+lxc.profile.device (1) - Manage container devices
+lxc.profile.device.add (1) - Add devices to containers or profiles
+lxc.profile.device.get (1) - Get values for container device configuration keys
+lxc.profile.device.list (1) - List container devices
+lxc.profile.device.remove (1) - Remove container devices
+lxc.profile.device.set (1) - Set container device configuration keys
+lxc.profile.device.show (1) - Show full device configuration for containers or profiles
+lxc.profile.device.unset (1) - Unset container device configuration keys
+lxc.profile.edit (1) - Edit profile configurations as YAML
+lxc.profile.get (1)  - Get values for profile configuration keys
+lxc.profile.list (1) - List profiles
+lxc.profile.remove (1) - Remove profiles from containers
+lxc.profile.rename (1) - Rename profiles
+lxc.profile.set (1)  - Set profile configuration keys
+lxc.profile.show (1) - Show profile configurations
+lxc.profile.unset (1) - Unset profile configuration keys
+lxc.publish (1)      - Publish containers as images
+lxc.remote (1)       - Manage the list of remote servers
+lxc.remote.add (1)   - Add new remote servers
+lxc.remote.get-default (1) - Show the default remote
+lxc.remote.list (1)  - List the available remotes
+lxc.remote.remove (1) - Remove remotes
+lxc.remote.rename (1) - Rename remotes
+lxc.remote.set-default (1) - Set the default remote
+lxc.remote.set-url (1) - Set the URL for the remote
+lxc.rename (1)       - Rename containers and snapshots
+lxc.restart (1)      - Restart containers
+lxc.restore (1)      - Restore containers from snapshots
+lxc.snapshot (1)     - Create container snapshots
+lxc.start (1)        - Start containers
+lxc.stop (1)         - Stop containers
+lxc.storage (1)      - Manage storage pools and volumes
+lxc.storage.create (1) - Create storage pools
+lxc.storage.delete (1) - Delete storage pools
+lxc.storage.edit (1) - Edit storage pool configurations as YAML
+lxc.storage.get (1)  - Get values for storage pool configuration keys
+lxc.storage.info (1) - Show useful information about storage pools
+lxc.storage.list (1) - List available storage pools
+lxc.storage.set (1)  - Set storage pool configuration keys
+lxc.storage.show (1) - Show storage pool configurations and resources
+lxc.storage.unset (1) - Unset storage pool configuration keys
+lxc.storage.volume (1) - Manage storage volumes
+lxc.storage.volume.attach (1) - Attach new storage volumes to containers
+lxc.storage.volume.attach-profile (1) - Attach new storage volumes to profiles
+lxc.storage.volume.copy (1) - Copy storage volumes
+lxc.storage.volume.create (1) - Create new custom storage volumes
+lxc.storage.volume.delete (1) - Delete storage volumes
+lxc.storage.volume.detach (1) - Detach storage volumes from containers
+lxc.storage.volume.detach-profile (1) - Detach storage volumes from profiles
+lxc.storage.volume.edit (1) - Edit storage volume configurations as YAML
+lxc.storage.volume.get (1) - Get values for storage volume configuration keys
+lxc.storage.volume.list (1) - List storage volumes
+lxc.storage.volume.move (1) - Move storage volumes between pools
+lxc.storage.volume.rename (1) - Rename storage volumes
+lxc.storage.volume.set (1) - Set storage volume configuration keys
+lxc.storage.volume.show (1) - Show storage volum configurations
+lxc.storage.volume.unset (1) - Unset storage volume configuration keys
+lxc.version (1)      - Show local and remote versions
+lxcfs (1)            - Set up cgroup fs for containers
+lxd (1)              - The LXD container manager (daemon)
+lzcat (1)            - Compress or decompress .xz and .lzma files
+lzcmp (1)            - compare compressed files
+lzdiff (1)           - compare compressed files
+lzegrep (1)          - search compressed files for a regular expression
+lzfgrep (1)          - search compressed files for a regular expression
+lzgrep (1)           - search compressed files for a regular expression
+lzless (1)           - view xz or lzma compressed (text) files
+lzma (1)             - Compress or decompress .xz and .lzma files
+lzmainfo (1)         - show information stored in the .lzma file header
+lzmore (1)           - view xz or lzma compressed (text) files
+make (1)             - GNU make utility to maintain groups of programs
+make-first-existing-target (1) - runs make on one of several targets
+man (1)              - an interface to the on-line reference manuals
+manconv (1)          - convert manual page from one encoding to another
+manifest (1)         - import or export a package list
+manpath (1)          - determine search path for manual pages
+mawk (1)             - pattern scanning and text processing language
+mcookie (1)          - generate magic cookies for xauth
+md4 (1ssl)           - message digests
+md5 (1ssl)           - message digests
+md5sum (1)           - compute and check MD5 message digest
+md5sum.textutils (1) - compute and check MD5 message digest
+mdc2 (1ssl)          - message digests
+mdig (1)             - DNS pipelined lookup utility
+memusage (1)         - profile memory usage of a program
+memusagestat (1)     - generate graphic from memory profiling data
+mesg (1)             - display (or do not display) messages from other users
+migrate-pubring-from-classic-gpg (1) - Migrate a public keyring from "classic" to "modern" GnuPG
+mkdir (1)            - make directories
+mkfifo (1)           - make FIFOs (named pipes)
+mknod (1)            - make block or character special files
+mksquashfs (1)       - tool to create and append to squashfs filesystems
+mktemp (1)           - create a temporary file or directory
+mlocate (1)          - find files by name
+more (1)             - file perusal filter for crt viewing
+mountpoint (1)       - see if a directory or file is a mountpoint
+mt (1)               - control magnetic tape drive operation
+mt-gnu (1)           - control magnetic tape drive operation
+mtrace (1)           - interpret the malloc trace log
+mv (1)               - move (rename) files
+namei (1)            - follow a pathname until a terminal point is found
+nano (1)             - Nano's ANOther editor, an enhanced free Pico clone
+nawk (1)             - pattern scanning and processing language
+nc (1)               - arbitrary TCP and UDP connections and listens
+nc.openbsd (1)       - arbitrary TCP and UDP connections and listens
+nc_openbsd (1)       - arbitrary TCP and UDP connections and listens
+ncal (1)             - displays a calendar and the date of Easter
+neqn (1)             - format equations for ascii output
+netcat (1)           - arbitrary TCP and UDP connections and listens
+netkit-ftp (1)       - Internet file transfer program
+networkctl (1)       - Query the status of network links
+newgidmap (1)        - set the gid mapping of a user namespace
+newgrp (1)           - log in to a new group
+newuidmap (1)        - set the uid mapping of a user namespace
+NF (1)               - awk and print a column (based on the name of the program, 1-9)
+ngettext (1)         - translate message and choose plural form
+nice (1)             - run a program with modified scheduling priority
+nisdomainname (1)    - show or set the system's NIS/YP domain name
+nl (1)               - number lines of files
+nm (1)               - list symbols from object files
+nohup (1)            - run a command immune to hangups, with output to a non-tty
+nproc (1)            - print the number of processing units available
+nroff (1)            - emulate nroff command with groff
+nsenter (1)          - run program with namespaces of other processes
+nseq (1ssl)          - create or examine a Netscape certificate sequence
+nslookup (1)         - query Internet name servers interactively
+nsupdate (1)         - Dynamic DNS update utility
+numfmt (1)           - Convert numbers from/to human-readable strings
+objcopy (1)          - copy and translate object files
+objdump (1)          - display information from object files.
+ocsp (1ssl)          - Online Certificate Status Protocol utility
+od (1)               - dump files in octal and other formats
+on_ac_power (1)      - test whether computer is running on AC power
+open (1)             - start a program on a new virtual terminal (VT).
+openssl (1ssl)       - OpenSSL command line tool
+openssl-asn1parse (1ssl) - ASN.1 parsing tool
+openssl-c_rehash (1ssl) - Create symbolic links to files named by the hash values
+openssl-ca (1ssl)    - sample minimal CA application
+openssl-ciphers (1ssl) - SSL cipher display and cipher list tool
+openssl-cms (1ssl)   - CMS utility
+openssl-crl (1ssl)   - CRL utility
+openssl-crl2pkcs7 (1ssl) - Create a PKCS#7 structure from a CRL and certificates
+openssl-dgst (1ssl)  - message digests
+openssl-dhparam (1ssl) - DH parameter manipulation and generation
+openssl-dsa (1ssl)   - DSA key processing
+openssl-dsaparam (1ssl) - DSA parameter manipulation and generation
+openssl-ec (1ssl)    - EC key processing
+openssl-ecparam (1ssl) - EC parameter manipulation and generation
+openssl-enc (1ssl)   - symmetric cipher routines
+openssl-engine (1ssl) - load and query engines
+openssl-errstr (1ssl) - lookup error codes
+openssl-gendsa (1ssl) - generate a DSA private key from a set of parameters
+openssl-genpkey (1ssl) - generate a private key
+openssl-genrsa (1ssl) - generate an RSA private key
+openssl-list (1ssl)  - list algorithms and features
+openssl-nseq (1ssl)  - create or examine a Netscape certificate sequence
+openssl-ocsp (1ssl)  - Online Certificate Status Protocol utility
+openssl-passwd (1ssl) - compute password hashes
+openssl-pkcs12 (1ssl) - PKCS#12 file utility
+openssl-pkcs7 (1ssl) - PKCS#7 utility
+openssl-pkcs8 (1ssl) - PKCS#8 format private key conversion tool
+openssl-pkey (1ssl)  - public or private key processing tool
+openssl-pkeyparam (1ssl) - public key algorithm parameter processing tool
+openssl-pkeyutl (1ssl) - public key algorithm utility
+openssl-rand (1ssl)  - generate pseudo-random bytes
+openssl-rehash (1ssl) - Create symbolic links to files named by the hash values
+openssl-req (1ssl)   - PKCS#10 certificate request and certificate generating utility
+openssl-rsa (1ssl)   - RSA key processing tool
+openssl-rsautl (1ssl) - RSA utility
+openssl-s_client (1ssl) - SSL/TLS client program
+openssl-s_server (1ssl) - SSL/TLS server program
+openssl-s_time (1ssl) - SSL/TLS performance timing program
+openssl-sess_id (1ssl) - SSL/TLS session handling utility
+openssl-smime (1ssl) - S/MIME utility
+openssl-speed (1ssl) - test library performance
+openssl-spkac (1ssl) - SPKAC printing and generating utility
+openssl-ts (1ssl)    - Time Stamping Authority tool (client/server)
+openssl-tsget (1ssl) - Time Stamping HTTP/HTTPS client
+openssl-verify (1ssl) - Utility to verify certificates
+openssl-version (1ssl) - print OpenSSL version information
+openssl-x509 (1ssl)  - Certificate display and signing utility
+openvt (1)           - start a program on a new virtual terminal (VT).
+pager (1)            - opposite of more
+passwd (1)           - change user password
+passwd (1ssl)        - compute password hashes
+paste (1)            - merge lines of files
+pastebinit (1)       - command-line pastebin client
+patch (1)            - apply a diff file to an original
+pathchk (1)          - check whether file names are valid or portable
+pbget (1)            - compress and encode arbitrary files to pastebin.com
+pbput (1)            - compress and encode arbitrary files to pastebin.com
+pbputs (1)           - compress and encode arbitrary files to pastebin.com
+pdb (1)              - the Python debugger
+pdb2.7 (1)           - the Python debugger
+pdb3 (1)             - the Python debugger
+pdb3.6 (1)           - the Python debugger
+peekfd (1)           - peek at file descriptors of running processes
+perl (1)             - The Perl 5 language interpreter
+perl5.26-x86_64-linux-gnu (1) - The Perl 5 language interpreter
+perl5.26.1 (1)       - The Perl 5 language interpreter
+perlbug (1)          - how to submit bug reports on Perl
+perlivp (1)          - Perl Installation Verification Procedure
+perlthanks (1)       - how to submit bug reports on Perl
+pftp (1)             - Internet file transfer program
+pgrep (1)            - look up or signal processes based on name and other attributes
+pic (1)              - compile pictures for troff or TeX
+pico (1)             - Nano's ANOther editor, an enhanced free Pico clone
+piconv (1)           - - iconv(1), reinvented in perl
+pinentry (1)         - PIN or pass-phrase entry dialog for GnuPG
+pinentry-curses (1)  - PIN or pass-phrase entry dialog for GnuPG
+pinky (1)            - lightweight finger
+pip (1)              - A tool for installing and managing Python packages
+pip2 (1)             - A tool for installing and managing Python packages
+pip3 (1)             - A tool for installing and managing Python packages
+pkaction (1)         - Get details about a registered action
+pkcheck (1)          - Check whether a process is authorized
+pkcs12 (1ssl)        - PKCS#12 file utility
+pkcs7 (1ssl)         - PKCS#7 utility
+pkcs8 (1ssl)         - PKCS#8 format private key conversion tool
+pkexec (1)           - Execute a command as another user
+pkey (1ssl)          - public or private key processing tool
+pkeyparam (1ssl)     - public key algorithm parameter processing tool
+pkeyutl (1ssl)       - public key algorithm utility
+pkill (1)            - look up or signal processes based on name and other attributes
+pkttyagent (1)       - Textual authentication helper
+pl2pm (1)            - Rough tool to translate Perl4 .pl files to Perl5 .pm modules.
+pldd (1)             - display dynamic shared objects linked into a process
+plymouth (1)         - Send commands to plymouthd
+pmap (1)             - report memory map of a process
+pod2html (1)         - convert .pod files to .html files
+pod2man (1)          - Convert POD data to formatted *roff input
+pod2text (1)         - Convert POD data to formatted ASCII text
+pod2usage (1)        - print usage messages from embedded pod docs in files
+podchecker (1)       - check the syntax of POD format documentation files
+podselect (1)        - print selected sections of pod documentation on standard output
+pollinate (1)        - an Entropy-as-a-Service client
+pr (1)               - convert text files for printing
+preconv (1)          - convert encoding of input files to something GNU troff understands
+print (1)            - execute programs via entries in the mailcap file
+printenv (1)         - print all or part of environment
+printerbanner (1)    - print large banner on printer
+printf (1)           - format and print data
+prlimit (1)          - get and set process resource limits
+prove (1)            - Run tests through a TAP harness.
+prtstat (1)          - print statistics of a process
+ps (1)               - report a snapshot of the current processes.
+psfaddtable (1)      - add a Unicode character table to a console font
+psfgettable (1)      - extract the embedded Unicode character table from a console font
+psfstriptable (1)    - remove the embedded Unicode character table from a console font
+psfxtable (1)        - handle Unicode character tables for console fonts
+pslog (1)            - report current logs path of a process
+pstree (1)           - display a tree of processes
+pstree.x11 (1)       - display a tree of processes
+ptar (1)             - a tar-like program written in perl
+ptardiff (1)         - program that diffs an extracted archive against an unextracted one
+ptargrep (1)         - Apply pattern matching to the contents of files in a tar archive
+ptx (1)              - produce a permuted index of file contents
+purge-old-kernels (1) - remove old kernel and header packages from the system
+pwd (1)              - print name of current/working directory
+pwdx (1)             - report current working directory of a process
+py3clean (1)         - removes .pyc and .pyo files
+py3compile (1)       - byte compile Python 3 source files
+py3versions (1)      - print python3 version information
+pybuild (1)          - invokes various build systems for requested Python versions in order to build modules and extensions
+pyclean (1)          - removes .pyc and .pyo files
+pycompile (1)        - byte compile Python source files
+pydoc (1)            - the Python documentation tool
+pydoc2.7 (1)         - the Python documentation tool
+pydoc3 (1)           - the Python documentation tool
+pydoc3.6 (1)         - the Python documentation tool
+pygettext (1)        - Python equivalent of xgettext(1)
+pygettext2.7 (1)     - Python equivalent of xgettext(1)
+pygettext3 (1)       - Python equivalent of xgettext(1)
+pygettext3.6 (1)     - Python equivalent of xgettext(1)
+pysetup3.6 (1)       - pysetup tool
+python (1)           - an interpreted, interactive, object-oriented programming language
+python-config (1)    - output build options for python C/C++ extensions or embedding
+python2 (1)          - an interpreted, interactive, object-oriented programming language
+python2-config (1)   - output build options for python C/C++ extensions or embedding
+python2.7 (1)        - an interpreted, interactive, object-oriented programming language
+python2.7-config (1) - output build options for python C/C++ extensions or embedding
+python3 (1)          - an interpreted, interactive, object-oriented programming language
+python3-config (1)   - output build options for python C/C++ extensions or embedding
+python3.6 (1)        - an interpreted, interactive, object-oriented programming language
+python3.6-config (1) - output build options for python C/C++ extensions or embedding
+python3.6m (1)       - an interpreted, interactive, object-oriented programming language
+python3.6m-config (1) - output build options for python C/C++ extensions or embedding
+python3m (1)         - an interpreted, interactive, object-oriented programming language
+python3m-config (1)  - output build options for python C/C++ extensions or embedding
+pyversions (1)       - print python version information
+rand (1ssl)          - generate pseudo-random bytes
+ranlib (1)           - generate index to archive.
+rbash (1)            - restricted bash, see bash(1)
+rcp (1)              - secure copy (remote file copy program)
+readelf (1)          - Displays information about ELF files.
+readlink (1)         - print resolved symbolic links or canonical file names
+realpath (1)         - print the resolved path
+rehash (1ssl)        - Create symbolic links to files named by the hash values
+rename.ul (1)        - rename files
+renice (1)           - alter priority of running processes
+req (1ssl)           - PKCS#10 certificate request and certificate generating utility
+reset (1)            - terminal initialization
+rev (1)              - reverse lines characterwise
+rgrep (1)            - print lines matching a pattern
+ripemd160 (1ssl)     - message digests
+rlogin (1)           - OpenSSH SSH client (remote login program)
+rm (1)               - remove files or directories
+rmdir (1)            - remove empty directories
+rnano (1)            - a restricted nano
+rpcgen (1)           - an RPC protocol compiler
+rsa (1ssl)           - RSA key processing tool
+rsautl (1ssl)        - RSA utility
+rsh (1)              - OpenSSH SSH client (remote login program)
+rsync (1)            - a fast, versatile, remote (and local) file-copying tool
+run-mailcap (1)      - execute programs via entries in the mailcap file
+run-one (1)          - run just one instance at a time of some command and unique set of arguments (useful for cronjobs, eg)
+run-one-constantly (1) - run just one instance at a time of some command and unique set of arguments (useful for cronjobs, eg)
+run-one-until-failure (1) - run just one instance at a time of some command and unique set of arguments (useful for cronjobs, eg)
+run-one-until-success (1) - run just one instance at a time of some command and unique set of arguments (useful for cronjobs, eg)
+run-this-one (1)     - run just one instance at a time of some command and unique set of arguments (useful for cronjobs, eg)
+runcon (1)           - run command with specified security context
+runuser (1)          - run a command with substitute user and group ID
+rview (1)            - Vi IMproved, a programmer's text editor
+rvim (1)             - Vi IMproved, a programmer's text editor
+s_client (1ssl)      - SSL/TLS client program
+s_server (1ssl)      - SSL/TLS server program
+s_time (1ssl)        - SSL/TLS performance timing program
+scp (1)              - secure copy (remote file copy program)
+screen (1)           - screen manager with VT100/ANSI terminal emulation
+screendump (1)       - dump the contents of a virtual console to stdout
+script (1)           - make typescript of terminal session
+scriptreplay (1)     - play back typescripts, using timing information
+sdiff (1)            - side-by-side merge of file differences
+sed (1)              - stream editor for filtering and transforming text
+see (1)              - execute programs via entries in the mailcap file
+select-editor (1)    - select your default sensible-editor from all installed editors
+sensible-browser (1) - sensible editing, paging, and web browsing
+sensible-editor (1)  - sensible editing, paging, and web browsing
+sensible-pager (1)   - sensible editing, paging, and web browsing
+seq (1)              - print a sequence of numbers
+sess_id (1ssl)       - SSL/TLS session handling utility
+setarch (1)          - change reported architecture in new program environment and set personality flags
+setfacl (1)          - set file access control lists
+setleds (1)          - set the keyboard leds
+setmetamode (1)      - define the keyboard meta key handling
+setsid (1)           - run a program in a new session
+setterm (1)          - set terminal attributes
+setupcon (1)         - sets up the font and the keyboard on the console
+setvtrgb (1)         - customize the console color map
+sftp (1)             - secure file transfer program
+sg (1)               - execute command as different group ID
+sh (1)               - command interpreter (shell)
+sh.distrib (1)       - command interpreter (shell)
+sha (1ssl)           - message digests
+sha1 (1ssl)          - message digests
+sha1sum (1)          - compute and check SHA1 message digest
+sha224 (1ssl)        - message digests
+sha224sum (1)        - compute and check SHA224 message digest
+sha256 (1ssl)        - message digests
+sha256sum (1)        - compute and check SHA256 message digest
+sha384 (1ssl)        - message digests
+sha384sum (1)        - compute and check SHA384 message digest
+sha512 (1ssl)        - message digests
+sha512sum (1)        - compute and check SHA512 message digest
+shasum (1)           - Print or Check SHA Checksums
+showkey (1)          - examine the codes sent by the keyboard
+shred (1)            - overwrite a file to hide its contents, and optionally delete it
+shuf (1)             - generate random permutations
+size (1)             - list section sizes and total size.
+skill (1)            - send a signal or report process status
+slabtop (1)          - display kernel slab cache information in real time
+sleep (1)            - delay for a specified amount of time
+slogin (1)           - OpenSSH SSH client (remote login program)
+smime (1ssl)         - S/MIME utility
+snice (1)            - send a signal or report process status
+soelim (1)           - interpret .so requests in groff input
+sort (1)             - sort lines of text files
+sosreport (1)        - Collect and package diagnostic and support data
+sotruss (1)          - trace shared library calls through PLT
+speed (1ssl)         - test library performance
+spkac (1ssl)         - SPKAC printing and generating utility
+split (1)            - split a file into pieces
+splitfont (1)        - extract characters from an ISO-type font.
+sprof (1)            - read and display shared object profiling data
+ssh (1)              - OpenSSH SSH client (remote login program)
+ssh-add (1)          - adds private key identities to the authentication agent
+ssh-agent (1)        - authentication agent
+ssh-argv0 (1)        - replaces the old ssh command-name as hostname handling
+ssh-copy-id (1)      - use locally available keys to authorise logins on a remote machine
+ssh-import-id (1)    - retrieve one or more public keys from a public keyserver and append them to the current user's authorized_keys file (or some other specified file)
+ssh-import-id-gh (1) - retrieve one or more public keys from a public keyserver and append them to the current user's authorized_keys file (or some other specified file)
+ssh-import-id-lp (1) - retrieve one or more public keys from a public keyserver and append them to the current user's authorized_keys file (or some other specified file)
+ssh-keygen (1)       - authentication key generation, management and conversion
+ssh-keyscan (1)      - gather ssh public keys
+stat (1)             - display file or file system status
+stdbuf (1)           - Run COMMAND, with modified buffering operations for its standard streams.
+strace (1)           - trace system calls and signals
+strace-log-merge (1) - merge strace - ff - tt output
+strings (1)          - print the strings of printable characters in files.
+strip (1)            - Discard symbols from object files.
+stty (1)             - change and print terminal line settings
+su (1)               - change user ID or become superuser
+sum (1)              - checksum and count the blocks in a file
+symcryptrun (1)      - Call a simple symmetric encryption tool
+sync (1)             - Synchronize cached writes to persistent storage
+systemctl (1)        - Control the systemd system and service manager
+systemd (1)          - systemd system and service manager
+systemd-analyze (1)  - Analyze and debug system manager
+systemd-ask-password (1) - Query the user for a system password
+systemd-cat (1)      - Connect a pipeline or program's output with the journal
+systemd-cgls (1)     - Recursively show control group contents
+systemd-cgtop (1)    - Show top control groups by their resource usage
+systemd-delta (1)    - Find overridden configuration files
+systemd-detect-virt (1) - Detect execution in a virtualized environment
+systemd-escape (1)   - Escape strings for usage in systemd unit names
+systemd-inhibit (1)  - Execute a program with an inhibition lock taken
+systemd-machine-id-setup (1) - Initialize the machine ID in /etc/machine-id
+systemd-mount (1)    - Establish and destroy transient mount or auto-mount points
+systemd-notify (1)   - Notify service manager about start-up completion and other daemon status changes
+systemd-path (1)     - List and query system and user paths
+systemd-resolve (1)  - Resolve domain names, IPV4 and IPv6 addresses, DNS resource records, and services
+systemd-run (1)      - Run programs in transient scope units, service units, or path-, socket-, or timer-triggered service units
+systemd-socket-activate (1) - Test socket activation of daemons
+systemd-tty-ask-password-agent (1) - List or process pending systemd password requests
+systemd-umount (1)   - Establish and destroy transient mount or auto-mount points
+tabs (1)             - set tabs on a terminal
+tac (1)              - concatenate and print files in reverse
+tail (1)             - output the last part of files
+tar (1)              - an archiving utility
+tarcat (1)           - concatenates the pieces of a GNU tar multi-volume archive
+taskset (1)          - set or retrieve a process's CPU affinity
+tbl (1)              - format tables for troff
+tee (1)              - read from standard input and write to standard output and files
+telnet (1)           - user interface to the TELNET protocol
+telnet.netkit (1)    - user interface to the TELNET protocol
+tempfile (1)         - create a temporary file in a safe manner
+test (1)             - check file types and compare values
+tic (1)              - the terminfo entry-description compiler
+time (1)             - run programs and summarize system resource usage
+timedatectl (1)      - Control the system time and date
+timeout (1)          - run a command with a time limit
+tload (1)            - graphic representation of system load average
+tmux (1)             - terminal multiplexer
+toe (1)              - table of (terminfo) entries
+top (1)              - display Linux processes
+touch (1)            - change file timestamps
+tput (1)             - initialize a terminal or query terminfo database
+tr (1)               - translate or delete characters
+trial3 (1)           - run unit tests
+troff (1)            - the troff processor of the groff text formatting system
+true (1)             - do nothing, successfully
+truncate (1)         - shrink or extend the size of a file to the specified size
+ts (1ssl)            - Time Stamping Authority tool (client/server)
+tset (1)             - terminal initialization
+tsget (1ssl)         - Time Stamping HTTP/HTTPS client
+tsort (1)            - perform topological sort
+tty (1)              - print the file name of the terminal connected to standard input
+twistd3 (1)          - run Twisted applications (TACs, TAPs)
+tzselect (1)         - view timezones
+ua (1)               - Enable or disable Ubuntu Advantage offerings from Canonical.
+ubuntu-advantage (1) - Enable or disable Ubuntu Advantage offerings from Canonical.
+ubuntu-bug (1)       - file a bug report using Apport, or update an existing report
+ucf (1)              - Update Configuration File: preserve user changes in configuration files
+ucfq (1)             - query the ucf database
+ucfr (1)             - Update Configuration File Registry: associate packages with configuration files
+ul (1)               - do underlining
+ulockmgr_server (1)  - Lock Manager Server for FUSE filesystems
+uname (1)            - print system information
+uncompress (1)       - compress or expand files
+unexpand (1)         - convert spaces to tabs
+unicode_start (1)    - put keyboard and console in unicode mode
+unicode_stop (1)     - revert keyboard and console from unicode mode
+uniq (1)             - report or omit repeated lines
+unlink (1)           - call the unlink function to remove the specified file
+unlzma (1)           - Compress or decompress .xz and .lzma files
+unshare (1)          - run program with some namespaces unshared from parent
+unsquashfs (1)       - tool to uncompress squashfs filesystems
+unxz (1)             - Compress or decompress .xz and .lzma files
+update-alternatives (1) - maintain symbolic links determining default commands
+update-mime-database (1) - a program to build the Shared MIME-Info database cache
+uptime (1)           - Tell how long the system has been running.
+usb-devices (1)      - print USB device details
+users (1)            - print the user names of users currently logged in to the current host
+utmpdump (1)         - dump UTMP and WTMP files in raw format
+uuidgen (1)          - create a new UUID value
+uuidparse (1)        - an utility to parse unique identifiers
+vdir (1)             - list directory contents
+verify (1ssl)        - Utility to verify certificates
+version (1ssl)       - print OpenSSL version information
+vi (1)               - Vi IMproved, a programmer's text editor
+view (1)             - Vi IMproved, a programmer's text editor
+vigpg (1)            - open and edit an encrypted file
+vim (1)              - Vi IMproved, a programmer's text editor
+vimdiff (1)          - edit two, three or four versions of a file with Vim and show differences
+vimtutor (1)         - the Vim tutor
+vmware-checkvm (1)   - Check if running in a VM or not
+vmware-toolbox-cmd (1) - GUI toolbox (commandline version)
+vmware-xferlogs (1)  - dump vm-support output to vmx logfile
+volname (1)          - return volume name
+w (1)                - Show who is logged on and what they are doing.
+w.procps (1)         - Show who is logged on and what they are doing.
+wall (1)             - write a message to all users
+watch (1)            - execute a program periodically, showing output fullscreen
+watchgnupg (1)       - Read and print logs from a socket
+wc (1)               - print newline, word, and byte counts for each file
+whatis (1)           - display one-line manual page descriptions
+whereis (1)          - locate the binary, source, and manual page files for a command
+which (1)            - locate a command
+whiptail (1)         - display dialog boxes from shell scripts
+who (1)              - show who is logged on
+whoami (1)           - print effective userid
+wifi-status (1)      - monitor the wireless interface
+write (1)            - send a message to another user
+wslfetch (1)         - Component of Windows 10 Linux Subsystem Utility
+wslsys (1)           - Component of Windows 10 Linux Subsystem Utility
+wslupath (1)         - Component of Windows 10 Linux Subsystem Utility
+wslusc (1)           - Component of Windows 10 Linux Subsystem Utility
+wslvar (1)           - Component of Windows 10 Linux Subsystem Utility
+wslview (1)          - Component of Windows 10 Linux Subsystem Utility
+x509 (1ssl)          - Certificate display and signing utility
+x86_64-linux-gnu-addr2line (1) - convert addresses into file names and line numbers.
+x86_64-linux-gnu-ar (1) - create, modify, and extract from archives
+x86_64-linux-gnu-as (1) - the portable GNU assembler.
+x86_64-linux-gnu-c++filt (1) - Demangle C++ and Java symbols.
+x86_64-linux-gnu-cpp (1) - The C Preprocessor
+x86_64-linux-gnu-cpp-7 (1) - The C Preprocessor
+x86_64-linux-gnu-dwp (1) - The DWARF packaging utility
+x86_64-linux-gnu-elfedit (1) - Update the ELF header of ELF files.
+x86_64-linux-gnu-g++ (1) - GNU project C and C++ compiler
+x86_64-linux-gnu-g++-7 (1) - GNU project C and C++ compiler
+x86_64-linux-gnu-gcc (1) - GNU project C and C++ compiler
+x86_64-linux-gnu-gcc-7 (1) - GNU project C and C++ compiler
+x86_64-linux-gnu-gcc-ar (1) - a wrapper around ar adding the - plugin option
+x86_64-linux-gnu-gcc-ar-7 (1) - a wrapper around ar adding the - plugin option
+x86_64-linux-gnu-gcc-nm (1) - a wrapper around nm adding the - plugin option
+x86_64-linux-gnu-gcc-nm-7 (1) - a wrapper around nm adding the - plugin option
+x86_64-linux-gnu-gcc-ranlib (1) - a wrapper around ranlib adding the - plugin option
+x86_64-linux-gnu-gcc-ranlib-7 (1) - a wrapper around ranlib adding the - plugin option
+x86_64-linux-gnu-gcov (1) - coverage testing tool
+x86_64-linux-gnu-gcov-7 (1) - coverage testing tool
+x86_64-linux-gnu-gcov-dump (1) - offline gcda and gcno profile dump tool
+x86_64-linux-gnu-gcov-dump-7 (1) - offline gcda and gcno profile dump tool
+x86_64-linux-gnu-gcov-tool (1) - offline gcda profile processing tool
+x86_64-linux-gnu-gcov-tool-7 (1) - offline gcda profile processing tool
+x86_64-linux-gnu-gold (1) - The GNU ELF linker
+x86_64-linux-gnu-gprof (1) - display call graph profile data
+x86_64-linux-gnu-ld (1) - The GNU linker
+x86_64-linux-gnu-ld.bfd (1) - The GNU linker
+x86_64-linux-gnu-ld.gold (1) - The GNU ELF linker
+x86_64-linux-gnu-nm (1) - list symbols from object files
+x86_64-linux-gnu-objcopy (1) - copy and translate object files
+x86_64-linux-gnu-objdump (1) - display information from object files.
+x86_64-linux-gnu-python-config (1) - output build options for python C/C++ extensions or embedding
+x86_64-linux-gnu-python2.7-config (1) - output build options for python C/C++ extensions or embedding
+x86_64-linux-gnu-python3-config (1) - output build options for python C/C++ extensions or embedding
+x86_64-linux-gnu-python3.6-config (1) - output build options for python C/C++ extensions or embedding
+x86_64-linux-gnu-python3.6m-config (1) - output build options for python C/C++ extensions or embedding
+x86_64-linux-gnu-python3m-config (1) - output build options for python C/C++ extensions or embedding
+x86_64-linux-gnu-ranlib (1) - generate index to archive.
+x86_64-linux-gnu-readelf (1) - Displays information about ELF files.
+x86_64-linux-gnu-size (1) - list section sizes and total size.
+x86_64-linux-gnu-strings (1) - print the strings of printable characters in files.
+x86_64-linux-gnu-strip (1) - Discard symbols from object files.
+xargs (1)            - build and execute command lines from standard input
+xauth (1)            - X authority file utility
+xdelta3 (1)          - VCDIFF (RFC 3284) binary diff tool
+xdg-user-dir (1)     - Find an XDG user dir
+xdg-user-dirs-update (1) - Update XDG user dir configuration
+xsubpp (1)           - compiler to convert Perl XS code into C code
+xxd (1)              - make a hexdump or do the reverse.
+xz (1)               - Compress or decompress .xz and .lzma files
+xzcat (1)            - Compress or decompress .xz and .lzma files
+xzcmp (1)            - compare compressed files
+xzdiff (1)           - compare compressed files
+xzegrep (1)          - search compressed files for a regular expression
+xzfgrep (1)          - search compressed files for a regular expression
+xzgrep (1)           - search compressed files for a regular expression
+xzless (1)           - view xz or lzma compressed (text) files
+xzmore (1)           - view xz or lzma compressed (text) files
+yes (1)              - output a string repeatedly until killed
+ypdomainname (1)     - show or set the system's NIS/YP domain name
+zcat (1)             - compress or expand files
+zcmp (1)             - compare compressed files
+zdiff (1)            - compare compressed files
+zegrep (1)           - search possibly compressed files for a regular expression
+zfgrep (1)           - search possibly compressed files for a regular expression
+zforce (1)           - force a '.gz' extension on all gzip files
+zgrep (1)            - search possibly compressed files for a regular expression
+zipdetails (1)       - display the internal structure of zip files
+zless (1)            - file perusal filter for crt viewing of compressed text
+zmore (1)            - file perusal filter for crt viewing of compressed text
+znew (1)             - recompress .Z files to .gz files
+zsoelim (1)          - satisfy .so requests in roff input
